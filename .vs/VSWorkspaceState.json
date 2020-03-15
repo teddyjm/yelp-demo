@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\apis",
+    "\\src\\components\\common",
+    "\\src\\components\\layouts",
+    "\\src\\tests"
+  ],
+  "SelectedNode": "\\src\\components\\layouts\\Place.tsx",
+  "PreviewInSolutionExplorer": false
+}
